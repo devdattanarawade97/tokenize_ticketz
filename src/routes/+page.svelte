@@ -5,7 +5,6 @@
 
 import TokenTicektz from '../assests/TokenTicketz.jpg';
 
-import NFT from '../assests/NFT.jpg';
 </script>
 
 

@@ -14,10 +14,10 @@ module.exports = {
     hardhat: {
       chainId:1337
     },
-    // matic: {
-    //   url:process.env.PRIVATE_ENDPOINT_URL,
-    //   accounts: [process.env.PRIVATE_CONTRACT_ADDRESS_PRIVATE_KEY],
-    // },
+    matic: {
+      url:process.env.PRIVATE_ENDPOINT_URL,
+      accounts: [process.env.PRIVATE_CONTRACT_ADDRESS_PRIVATE_KEY],
+    },
    
   }
 };
