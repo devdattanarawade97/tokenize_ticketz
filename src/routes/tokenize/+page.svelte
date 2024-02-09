@@ -7,8 +7,8 @@
 
 	import TokenizeTicketzJson from '../../artifacts/contracts/TokenTicketz.sol/TokenTicketz.json';
      
-	import {PUBLIC_TEST_CONTRACT_ADDRESS} from '$env/static/public';
-	const tokenTicketzContractAddress=PUBLIC_TEST_CONTRACT_ADDRESS;
+	import {PUBLIC_CONTRACT_ADDRESS} from '$env/static/public';
+	const tokenTicketzContractAddress=PUBLIC_CONTRACT_ADDRESS;
 	import {
 		Button,
 		Card,
